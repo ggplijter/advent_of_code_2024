@@ -6,7 +6,7 @@ authors = ["Gerben Plijter <gplijter@umaco.nl>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.13"
+python = "~3.12"
 httpx = "^0.28.0"
 python-dotenv = "^1.0.1"
 

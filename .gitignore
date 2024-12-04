@@ -129,35 +129,5 @@ dmypy.json
 
 # my own ignores
 .idea/
-testing/
-data/
-log/
-builds/
-scripts/combined17012023
-/test_platform_integration/recorded_data
-/docs/correspondentie
-
-poetry.lock
-qml_edo.pro.user
-/test_platform_integration/testApiManager.py
-
-/test_platform_integration/error_500_get_patients.json
-/test_reach2point/edo.cfg
-/test_platform_integration/devicemanager.py
-/test_reach2point/combined.parquet
-/test_reach2point/combined.csv
-/test_reach2point/calculate_norm.py
-*.avi
-*.zip
-*.pickle
-/app/frontend/resources_rc.py
-/database
-/BUILD_INFO
-/datareader/work/results/
-/docs/.$flowchart_ac4s.drawio.bkp
-/ABOUT
-/analysis/
-/platform/
-/workspace/results/
-/workspace/client_api/
-/workspace/*pycharm*/
+/2024/
+/poetry.lock
